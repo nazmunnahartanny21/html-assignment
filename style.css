@@ -129,12 +129,12 @@ height: 150px;
     border: none;
 }
 
-.footer{
-    height: 200px;
+.footer-section{
+    height: 150px;
     padding: 100px 0;
 }
 
-.contact{
+.bg{
     width: 70%;
     background-image: url(/image/footer-pic.png);
     background-size: cover;
